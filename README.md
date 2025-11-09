@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with inspiration from Brinson's seminal work on performance attribution.
 - Thanks to the open-source community for libraries like Pandas and SciPy.
-- Contributions welcome! Contact: rohitmannur007@example.com
+- Contributions welcome! Contact: rohitmannur@gmail.com
 
 ## Support
 
